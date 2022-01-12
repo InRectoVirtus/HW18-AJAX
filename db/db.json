@@ -1,0 +1,24 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "task": "buy gum",
+        "complited": false
+      },
+      {
+        "task": "buy meat",
+        "complited": false,
+        "id": 2
+      },
+      {
+        "task": "buy cola",
+        "complited": false,
+        "id": 3
+      },
+      {
+        "task": "feed me",
+        "complited": false,
+        "id": 4
+      }
+    ]
+  }
